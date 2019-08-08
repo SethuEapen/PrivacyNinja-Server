@@ -82,6 +82,6 @@ port = 5560 #YOU CAN CHANGE PORT IF THIS ONE IS USED UP
 After this you need to set up SSH on your RPi explained [here](https://www.raspberrypi.org/documentation/remote-access/ssh/)
 
 
-##Program Startup
+##Program Setup
 
 To startup the program, first start the server, enable the functions you want to do on motion, and set the program to close and the email credentials. Next, SSH into the RPi. If you don't know the IP address of your RPi you can use the command `ifconfig` or `hostname -I`. Once connected, navigate to the directory with AutoClose.py. Then enter the command `sudo python3 AutoClose-Client.py`. AutoClose should work now!
