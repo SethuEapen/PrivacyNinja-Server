@@ -1,7 +1,7 @@
 <h1 align="center">AutoClose</h1>
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/31808277/62737974-fa547880-b9e5-11e9-9794-0d9b6940ab62.JPG">
+  <img src="https://user-images.githubusercontent.com/31808277/62737974-fa547880-b9e5-11e9-9794-0d9b6940ab62.JPG">
 </p>
 
 AutoClose is a program that provides safety and privacy from your parents, boss, or anyone else who you do not want walking in on you. AutoClose uses network sockets to communicate with a raspberry pi wirelessly. When motion is detected by the RPi you can chose whether to close a program (i.e. browser, game), close a tab or window via the commands ctrl + w and ctrl + shift + w respectively, or send an alert email to your phone. the program can be completely hidden and exposed using the command ctrl + alt + w.
