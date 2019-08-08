@@ -1,6 +1,7 @@
 <h1 align="center">AutoClose</h1>
+<p align="center">
 
-![Capture](https://user-images.githubusercontent.com/31808277/62737974-fa547880-b9e5-11e9-9794-0d9b6940ab62.JPG)
+        ![Capture](https://user-images.githubusercontent.com/31808277/62737974-fa547880-b9e5-11e9-9794-0d9b6940ab62.JPG)
 
 </p>
 
