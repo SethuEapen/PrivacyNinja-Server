@@ -65,7 +65,7 @@ If you want to run AutoClose without a console you need to convert it to an exe 
 
 Finally, you need a way to SSH into your RPi. A Linux terminal emulator such as [Cygwin](https://www.cygwin.com/) can be used for this or an SSH program such as [putty](https://www.putty.org/). 
 
-###Client Setup
+### Client Setup
 
 The client setup is much easier. First, attach a PIR motion sensor to the GPIO pins 5v, GND, and 11. Next, open up the terminal and navigate to the directory you want to store the program. Next, enter the command:
 ```
@@ -82,6 +82,6 @@ port = 5560 #YOU CAN CHANGE PORT IF THIS ONE IS USED UP
 After this you need to set up SSH on your RPi explained [here](https://www.raspberrypi.org/documentation/remote-access/ssh/)
 
 
-##Program Setup
+## Program Startup
 
 To startup the program, first start the server, enable the functions you want to do on motion, and set the program to close and the email credentials. Next, SSH into the RPi. If you don't know the IP address of your RPi you can use the command `ifconfig` or `hostname -I`. Once connected, navigate to the directory with AutoClose.py. Then enter the command `sudo python3 AutoClose-Client.py`. AutoClose should work now!
