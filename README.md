@@ -6,7 +6,7 @@
 
 PrivacyNinja is a program that provides safety and privacy from your parents, boss, or anyone else who you do not want walking in on you. PrivacyNinja uses network sockets to communicate with a raspberry pi wirelessly. When motion is detected by the RPi you can chose whether to close a program (i.e. browser, game), close a tab or window via the commands ctrl + w and ctrl + shift + w respectively, or send an alert email to your phone. the program can be completely hidden and exposed using the command ctrl + alt + w.
 
-Please watch the [video]() before using PrivacyNinja
+Please watch the [video](https://youtu.be/lNjg_OmPB9c) before using PrivacyNinja
 
 
 ## Getting Started
